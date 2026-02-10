@@ -1,4 +1,5 @@
-# Sumanth Reddy Yadapalli
+# Author Information
+name:Sumanth Reddy Yadapalli
 College: Kalasalingam University
 Workshop Date: 10/2/26
 
