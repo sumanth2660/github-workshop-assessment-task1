@@ -13,9 +13,10 @@ Open the project files in any code editor or text editor.
 Read the README file to understand the project structure and workflow.
 
 # Folder Structure
-README.md – Contains project details and instructions
-intro.txt – Contains basic personal information such as name, department, and hobby
-Workshop Tasks Covered
+- **README.md** – Contains project details and instructions  
+- **intro.txt** – Contains basic personal information such as name, department, and hobby
+  
+# Workshop Tasks Covered
 Creating and managing GitHub repositories
 Working with branches and merges
 Understanding fork and pull request workflow
